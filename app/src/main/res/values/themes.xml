@@ -12,13 +12,11 @@
         <item name="android:elevation">20dp</item>
 
     </style>
-
     <style name="custome_button_round" parent="Widget.AppCompat.Button">
         <item name="android:background">@drawable/button_round</item>
         <item name="android:state_pressed">true</item>
         <item name="android:elevation">20dp</item>
     </style>
-
     <style name="custome_button_circle" parent="Widget.AppCompat.Button">
         <item name="android:background">@drawable/button_circle</item>
         <item name="android:state_pressed">true</item>
@@ -27,7 +25,54 @@
         <item name="android:layout_height">170px</item>
 
     </style>
+    <style name="custome_buttonstyle2_radius" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttonstyle2_radius</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:elevation">20dp</item>
+    </style>
+    <style name="custome_buttonstyle2_round" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttonstyle2_round</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:elevation">20dp</item>
+    </style>
+    <style name="custome_buttonstyle2_circle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttonstyle2_circle</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:elevation">20dp</item>
+        <item name="android:layout_width">170px</item>
+        <item name="android:layout_height">170px</item>
 
+    </style>
+    <style name="custome_buttongradien_radius" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttongradien_radius</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:elevation">20dp</item>
+
+    </style>
+    <style name="custome_buttongradien_circle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttongradient_circle</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:elevation">20dp</item>
+        <item name="android:layout_width">170px</item>
+        <item name="android:layout_height">170px</item>
+
+    </style>
+    <style name="custome_buttongradien_round" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttongradient_round</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:elevation">20dp</item>
+    </style>
+
+
+
+    <style name="custome_editstyle1_text" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/editstyle1_text</item>
+    </style>
+
+
+    <style name="custome_editstyle2_text" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/editstyle2_text</item>
+    </style>
 
 
     <style name="Theme.SimpleAppTemplate" parent="Base.Theme.SimpleAppTemplate" />
